@@ -1,3 +1,5 @@
+// algoritmo teste de estagio
+
 let computadorLigado = false
 let browseAberto = false
 let email
